@@ -79,6 +79,45 @@ I focus on writing **clean, fast, and maintainable code**, with strong attention
 Whether you need a **website, mobile app, backend API, database system, or a complete end-to-end solution**, I can deliver your project **efficiently, professionally, and with top quality**.
 
 ---
+# PROJECT NAME 🚀
+
+## Overview
+Brief description of the project:
+
+- **Notes Mobile App**: A Flutter-based mobile app for creating, editing, and organizing rich-text notes with media support and offline capabilities.  
+- **Personal Website**: A modern portfolio website showcasing projects, skills, and professional experience with responsive design.  
+- **E-commerce App**: Full-featured shopping app with product catalog, cart, checkout, and payment gateway integration.  
+- **Admin Dashboards**: Web-based dashboards for managing users, products, orders, and analytics with real-time charts and KPIs.
+
+---
+
+## Features
+
+- Notes Mobile App
+  - Rich text editing with Flutter Quill
+  - Media embedding (images, videos)
+  - Trash and restore functionality
+  - Offline support
+
+- Personal Website
+  - Responsive portfolio layout
+  - Project showcase
+  - Contact form
+  - Smooth animations
+
+- E-commerce App
+  - Product catalog and search
+  - Shopping cart and checkout
+  - Payment integration
+  - User authentication and order tracking
+
+- Admin Dashboards
+  - User & role management
+  - Order and product management
+  - KPI & analytics charts
+  - Real-time data updates
+
+---
 
 ## 🌐 Social & Contact
 
