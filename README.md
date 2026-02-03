@@ -83,8 +83,8 @@ Whether you need a **website, mobile app, backend API, database system, or a com
 ## 🌐 Social & Contact
 
 - 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: www.linkedin.com/in/ahmedsalemshamla
+- 📧 Email: ahmed.salem.shamla@gmail.com
 - 🌍 Portfolio: https://YOUR_USERNAME.github.io
 
 ---
