@@ -1,85 +1,98 @@
-# Ahmed Salem Shamal 👋
+# Welcome 👋
 
-## 🚀 Full Stack Developer
+## Ahmed Salem — Full Stack Software Engineer
 
-I am a full-stack developer focused on building **scalable, real-world web and mobile applications**.  
-I enjoy working on **Flutter apps, backend systems, admin dashboards, and data-driven solutions**.
+I am **Ahmed Salem**, a Full Stack Software Engineer with extensive experience in building **systems, websites, and mobile applications**.  
+I specialize in transforming ideas into **fully functional, high-quality products** that perform efficiently and professionally.
 
-I care about **clean architecture, performance, and maintainable code**.
-
----
-
-## 🧠 About Me
-- 💻 Full Stack Developer
-- 📱 Flutter & Mobile Apps
-- 🧩 Backend APIs & Databases
-- 📊 Admin Dashboards & KPI Systems
-- 🌱 Always learning and improving
+I focus on writing **clean, fast, and maintainable code**, with strong attention to **performance and user experience**, ensuring high-quality delivery in less time.
 
 ---
 
-## 🛠 Tech Stack
+## 💡 Expertise Overview
 
-### Frontend & Mobile
-- Flutter / Dart
-- Responsive UI
-- State Management (GetX, etc.)
+### 📱 Mobile Application Development
+- Flutter (GetX, Provider)
+- React Native (iOS & Android)
+- High-performance, scalable mobile apps
+- Clean UI/UX and responsive layouts
 
-### Backend
-- REST APIs
-- SQL Databases
-- Business Logic & Validation
+---
 
-### Tools & Practices
+### 🌐 Frontend Web Development
+- HTML, CSS, JavaScript
+- Bootstrap, Tailwind CSS
+- Responsive & modern UI design
+- Cross-browser & cross-device compatibility
+
+---
+
+### ⚙️ Backend Development
+- .NET & .NET Core
+- Node.js (Express)
+- PHP / Laravel
+- Firebase (Auth, Firestore, Storage, Functions)
+- RESTful APIs & third-party integrations
+
+---
+
+### 🗄️ Databases
+- SQL Server
+- Oracle
+- MySQL
+- PostgreSQL
+- SQLite
+- MongoDB
+- Hive
+
+---
+
+### 📊 Systems & Dashboards
+- Admin Dashboards
+- User management & permissions
+- Payment gateway integrations
+- Performance optimization & security
+- End-to-End system architecture
+
+---
+
+## 🛠 Skills & Technologies
+
+- Clean Architecture & MVC
+- RESTful API Design
+- Database Design & Optimization
+- Authentication & Authorization
+- Performance & Security Best Practices
 - Git & GitHub
-- Clean Architecture
-- MVC / Layered Architecture
-- Debugging & Optimization
+- Debugging & Problem Solving
 
 ---
 
-## 📌 Featured Projects
+## 🚀 What I Deliver
+- ⚡ Fast execution
+- ✅ High-quality results
+- 🔍 Attention to detail
+- 🔁 Flexibility for changes
+- 💬 Clear and continuous communication
+- 🛠 Technical support after delivery
 
-### ☕ Easy Order Coffee – Admin Dashboard
-Admin system for managing orders, products, users, and analytics.
-- Order & payment management
-- KPI dashboards
-- Role-based access
-
-### 📝 Notes App (Flutter)
-Rich-text notes application with:
-- Flutter Quill editor
-- Media embedding
-- Trash & restore system
-
-### 📊 Analytics & KPI Systems
-- Business metrics
-- Charts & reports
-- Real-time statistics
-
----
-
-## 📈 GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+Whether you need a **website, mobile app, backend API, database system, or a complete end-to-end solution**, I can deliver your project **efficiently, professionally, and with top quality**.
 
 ---
 
 ## 🌐 Social & Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 - 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 - 📧 Email: your.email@example.com
 - 🌍 Portfolio: https://YOUR_USERNAME.github.io
 
 ---
 
-## 🧩 What I’m Working On
-- Building production-ready Flutter apps
-- Improving backend performance
-- Designing clean admin dashboards
-- Learning advanced system design
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Feel free to explore my repositories and connect with me.
