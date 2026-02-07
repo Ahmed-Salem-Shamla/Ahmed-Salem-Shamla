@@ -29,44 +29,43 @@
 
 <table>
 <tr>
-<td align="center" width="16.66%">
+<td align="center">
 <img src="https://img.icons8.com/fluency/96/000000/visible.png" width="70"/>
 <br/>
 <h3>👁️ Site Viewers</h3>
-<img src="https://komarev.com/ghpvc/?username=ahmedsalemshamla&label=Total%20Views&color=6366f1&style=flat-square" alt="Site Views" />
+<img src="https://komarev.com/ghpvc/?username=ahmedsalemshamla&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Site Views" />
 <br/>
-<h2>125K+</h2>
 <sub>Growing daily</sub>
 </td>
-<td align="center" width="16.66%">
+<td align="center">
 <img src="https://img.icons8.com/fluency/96/000000/project.png" width="70"/>
 <br/>
 <h3>✅ Projects</h3>
 <h2>150+</h2>
 <sub>Successfully delivered</sub>
 </td>
-<td align="center" width="16.66%">
+<td align="center">
 <img src="https://img.icons8.com/fluency/96/000000/business-group.png" width="70"/>
 <br/>
 <h3>🤝 Clients</h3>
 <h2>80+</h2>
 <sub>Worldwide satisfaction</sub>
 </td>
-<td align="center" width="16.66%">
+<td align="center">
 <img src="https://img.icons8.com/fluency/96/000000/clock.png" width="70"/>
 <br/>
 <h3>⏱️ Experience</h3>
 <h2>5+ Years</h2>
 <sub>Professional development</sub>
 </td>
-<td align="center" width="16.66%">
+<td align="center">
 <img src="https://img.icons8.com/fluency/96/000000/code.png" width="70"/>
 <br/>
 <h3>💻 Code Commits</h3>
 <h2>10K+</h2>
 <sub>On GitHub</sub>
 </td>
-<td align="center" width="16.66%">
+<td align="center">
 <img src="https://img.icons8.com/fluency/96/000000/star.png" width="70"/>
 <br/>
 <h3>⭐ Rating</h3>
@@ -82,7 +81,7 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center">
 <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
 <br/>
 <b>Active Projects</b>
@@ -90,7 +89,7 @@
 <h3>12</h3>
 <sub>Currently in development</sub>
 </td>
-<td align="center" width="25%">
+<td align="center">
 <img src="https://img.icons8.com/fluency/96/000000/download.png" width="60"/>
 <br/>
 <b>App Downloads</b>
@@ -98,7 +97,7 @@
 <h3>250K+</h3>
 <sub>Across all platforms</sub>
 </td>
-<td align="center" width="25%">
+<td align="center">
 <img src="https://img.icons8.com/fluency/96/000000/good-quality.png" width="60"/>
 <br/>
 <b>Success Rate</b>
@@ -106,7 +105,7 @@
 <h3>99.5%</h3>
 <sub>Project completion</sub>
 </td>
-<td align="center" width="25%">
+<td align="center">
 <img src="https://img.icons8.com/fluency/96/000000/retro-tv.png" width="60"/>
 <br/>
 <b>Uptime</b>
